@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "nodemon",
     "build": "rimraf ./build && tsc",
-    "start": "npm run build && node build/main.js",
+    "start": "npm run build && node build/src/main.js",
     "test": "jest",
     "lint": "eslint . --ext .ts",
     "format": "prettier --config .prettierrc '**/*.ts' --write"
