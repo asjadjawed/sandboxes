@@ -92,3 +92,4 @@ go.work
 
 # Local History for Visual Studio Code
 .history/
+.dccache
