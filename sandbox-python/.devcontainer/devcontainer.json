@@ -21,20 +21,19 @@
 
   // Add the IDs of extensions you want installed when the container is created.
   "extensions": [
-    "ms-python.vscode-pylance",
-    "ms-python.python",
-    "njpwerner.autodocstring",
-    "visualstudioexptteam.vscodeintellicode",
-    "njpwerner.autodocstring",
-    "streetsidesoftware.code-spell-checker",
-    "visualstudioexptteam.vscodeintellicode",
-    "visualstudioexptteam.intellicode-api-usage-examples",
-    "visualstudioexptteam.vscodeintellicode-completions",
-    "snyk-security.snyk-vulnerability-scanner",
-    "Gruntfuggly.todo-tree",
-    "oderwat.indent-rainbow",
-    "viktorzetterstrom.non-breaking-space-highlighter"
-  ]
+	"ms-python.vscode-pylance",
+	"ms-python.python",
+	"njpwerner.autodocstring",
+	"visualstudioexptteam.vscodeintellicode",
+	"njpwerner.autodocstring",
+	"streetsidesoftware.code-spell-checker",
+	"visualstudioexptteam.vscodeintellicode",
+	"snyk-security.snyk-vulnerability-scanner",
+	"Gruntfuggly.todo-tree",
+	"oderwat.indent-rainbow",
+	"viktorzetterstrom.non-breaking-space-highlighter",
+	"TabNine.tabnine-vscode"
+]
 
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
   // "forwardPorts": [],
